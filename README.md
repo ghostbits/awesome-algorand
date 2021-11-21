@@ -18,6 +18,11 @@
 
 - [Algorand Wallet](https://www.algorandwallet.com/) - Official wallet for mobile devices
 
+## **De**centralized **Fi**nance
+
+- [Yieldly](https://yieldly.finance/) - Suite of DeFi tools including staking, cross-chain swapping and no-loss prize games
+- [Tinyman](https://tinyman.org/) - Decentralized trading of ALGO and ASAs
+
 ## Developer Resources
 
 - [Developer Portal](https://developer.algorand.org/) - Official developer portal
