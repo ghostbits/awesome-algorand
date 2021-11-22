@@ -31,6 +31,7 @@
 ### Tools
 
 - [PyTeal](https://developer.algorand.org/docs/get-details/dapps/pyteal/) - Python language binding for Algorand Smart Contracts
+- [PyTeal Extras](https://github.com/ulamlabs/pytealext) - Extra methods for common use cases in PyTeal not provided by the main package
 - [Reach](https://reach.sh/) - Domain-specific language for building dapps
 - [Python Algorand SDK](https://github.com/algorand/py-algorand-sdk) - Python library for interacting with the Algorand network
 
