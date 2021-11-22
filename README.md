@@ -4,6 +4,7 @@
 
 - [Websites and Resources](#websites-and-resources)
 - [Wallets](#wallets)
+- [Decentralized Finance](#decentralized-finance)
 - [Developer Resources](#developer-resources)
 
 ## Websites and Resources
@@ -22,7 +23,7 @@
 - [Algorand Wallet Selector](https://github.com/xBacked-DAO/algorand-wallet-select) - JS Library to allow user to choose which wallet to use for transaction signing
 - [Algorand Session Wallet](https://github.com/barnjamin/algorand-session-wallet) - JS Library to allow user to choose which wallet to use for transaction signing
 
-## **De**centralized **Fi**nance
+## Decentralized Finance
 
 - [Yieldly](https://yieldly.finance/) - Suite of DeFi tools including staking, cross-chain swapping and no-loss prize games
 - [Tinyman](https://tinyman.org/) - Decentralized trading of ALGO and ASAs
