@@ -17,6 +17,10 @@
 ## Wallets
 
 - [Algorand Wallet](https://www.algorandwallet.com/) - Official wallet for mobile devices
+- [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - Web Wallet and JS library for signing transactions in the browser
+- [AlgoSigner](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser
+- [Algorand Wallet Selector](https://github.com/xBacked-DAO/algorand-wallet-select) - JS Library to allow user to choose which wallet to use for transaction signing
+- [Algorand Session Wallet](https://github.com/barnjamin/algorand-session-wallet) - JS Library to allow user to choose which wallet to use for transaction signing
 
 ## **De**centralized **Fi**nance
 
