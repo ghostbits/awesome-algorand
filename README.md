@@ -27,6 +27,7 @@
 
 - [Developer Portal](https://developer.algorand.org/) - Official developer portal
 - [Algorand Dev Education Catalog](https://docs.google.com/spreadsheets/d/19AKETHLyU8sG8sHgf7Se5G5AxI5FT8_cDs-uByg9hq8/edit#gid=928741161) - Google sheet containing many useful videos and slide decks
+- [Community Interest Guage](https://github.com/algorand-devrel/community) - Centralized listing of suggestions/requests for the core Algorand team to implement
 
 ### Tools
 
