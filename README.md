@@ -17,6 +17,10 @@
 ## Wallets
 
 - [Algorand Wallet](https://www.algorandwallet.com/) - Official wallet for mobile devices
+- [MyAlgo Connect](https://github.com/randlabs/myalgo-connect) - Web Wallet and JS library for signing transactions in the browser
+- [AlgoSigner](https://github.com/PureStake/algosigner) - Browser plugin Web Wallet and JS library for signing transactions in the browser
+- [Algorand Wallet Selector](https://github.com/xBacked-DAO/algorand-wallet-select) - JS Library to allow user to choose which wallet to use for transaction signing
+- [Algorand Session Wallet](https://github.com/barnjamin/algorand-session-wallet) - JS Library to allow user to choose which wallet to use for transaction signing
 
 ## **De**centralized **Fi**nance
 
@@ -28,10 +32,12 @@
 - [Developer Portal](https://developer.algorand.org/) - Official developer portal
 - [Algorand Dev Education Catalog](https://docs.google.com/spreadsheets/d/19AKETHLyU8sG8sHgf7Se5G5AxI5FT8_cDs-uByg9hq8/edit#gid=928741161) - Google sheet containing many useful videos and slide decks
 - [ARCs](https://github.com/algorandfoundation/ARCs) - Official listing of Algorand Request for Comments specification Documents
+- [Community Interest Guage](https://github.com/algorand-devrel/community) - Centralized listing of suggestions/requests for the core Algorand team to implement
 
 ### Tools
 
 - [PyTeal](https://developer.algorand.org/docs/get-details/dapps/pyteal/) - Python language binding for Algorand Smart Contracts
+- [PyTeal Extras](https://github.com/ulamlabs/pytealext) - Extra methods for common use cases in PyTeal not provided by the main package
 - [Reach](https://reach.sh/) - Domain-specific language for building dapps
 - [Python Algorand SDK](https://github.com/algorand/py-algorand-sdk) - Python library for interacting with the Algorand network
 
