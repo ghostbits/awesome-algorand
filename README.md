@@ -13,6 +13,7 @@
 - [Algorand Foundation](https://algorand.foundation/) - Official website of the Foundation
 - [Algorand FAQ](https://algorand.foundation/faq) - FAQ maintained by the Algorand Foundation
 - [Unofficial Algorand FAQ](https://github.com/HashMapsData2Value/AlgorandFAQ) - Unofficial FAQ maintained by the /r/AlgorandOfficial moderators
+- [How Big Is Algorand](https://howbigisalgorand.com/) - Shows the disk space needed for each network and indexer
 - [Into The Algoverse](https://oroalej.github.io/intothealgoverse/#/) - Another useful list of links for the Algorand ecosystem
 
 ## Wallets
