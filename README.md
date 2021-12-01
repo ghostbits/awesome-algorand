@@ -29,6 +29,12 @@
 - [Yieldly](https://yieldly.finance/) - Suite of DeFi tools including staking, cross-chain swapping and no-loss prize games
 - [Tinyman](https://tinyman.org/) - Decentralized trading of ALGO and ASAs
 
+## NFT Marketplaces
+
+[AB2](https://ab2.gallery/)
+[Rand Gallery](https://www.randgallery.com/)
+[The GIF Economy](https://gifeconomy.com/)
+
 ## Developer Resources
 
 - [Developer Portal](https://developer.algorand.org/) - Official developer portal
