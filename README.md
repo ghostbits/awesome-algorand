@@ -31,9 +31,9 @@
 
 ## NFT Marketplaces
 
-[AB2](https://ab2.gallery/)
-[Rand Gallery](https://www.randgallery.com/)
-[The GIF Economy](https://gifeconomy.com/)
+- [AB2](https://ab2.gallery/)
+- [Rand Gallery](https://www.randgallery.com/)
+- [The GIF Economy](https://gifeconomy.com/)
 
 ## Developer Resources
 
